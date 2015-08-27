@@ -1,8 +1,3 @@
-weather
-=======
-
-利用中央气象台的API做的一款天气预报App
-
-JSONObject内容示例： http://blog.csdn.net/yhm2046/article/details/8475195
-
-
+利用的小米的数据源，中央气象台的源比较好但是最近被屏蔽了
+这个源的地址http://weatherapi.market.xiaomi.com/wtr-v2/weather?cityId=101121301 
+101121301是城市码

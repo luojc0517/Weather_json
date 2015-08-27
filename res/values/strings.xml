@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">weather_json</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="getting_weather_info">正在获取天气数据,请稍后...</string>
+    <string name="base_url">http://weatherapi.market.xiaomi.com/wtr-v2/weather?cityId=</string>
+
+    <string-array name="action_list">
+        <item>action1</item>
+        <item>action2</item>
+        <item>action3</item>
+        <item>action4</item>
+        <item>action5</item>
+        <item>addnewcity</item>
+    </string-array>
+
+</resources>
